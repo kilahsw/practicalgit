@@ -1,2 +1,3 @@
 # practicalgit
-Git Course
+New Text Here
+Git Course for Beginners
